@@ -49,8 +49,11 @@
 
 const nomes = ["ana", "maria", "jorge", "atila", "ramires"]
 
-const resultante =  nomes.filter((n) => {
-    return n.startsWith("")
-})
+// const resultante =  nomes.filter((n) => {
+//     return n.startsWith("")
+// })
 
-console.log(resultante)
+const res = nomes.map((nome) => nome.length)
+console.log(res)
+
+// console.log(resultante)
