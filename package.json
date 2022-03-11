@@ -1,0 +1,23 @@
+{
+  "name": "pmobile2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/GuilhermeVieiraSousa/Pmobile2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeVieiraSousa/Pmobile2022/issues"
+  },
+  "homepage": "https://github.com/GuilhermeVieiraSousa/Pmobile2022#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}

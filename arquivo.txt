@@ -1,1 +1,7 @@
-Testado e aprovado
+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
+
+
+
+a559f2a5392564508e41204076ac34e3
+
+api.openweathermap.org/data/2.5/forecast?q=Itu&appid=a559f2a5392564508e41204076ac34e3
